@@ -1,5 +1,7 @@
 # IVSalineSensor
 
+Link of paper: https://www.emerald.com/insight/content/doi/10.1108/CW-01-2019-0008/full/html
+
 **Purpose** – The purpose of the study is to design and develop an pervasive and smart Internet of Things (IoT)-based sensor system to monitor he
 real-time intravenous (IV) fluid bag level.
 **Design/methodology/approach** – This paper investigates such issue and performs several experiments to develop a non-invasive, semi-automatic
